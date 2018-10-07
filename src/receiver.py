@@ -4,7 +4,7 @@ from random import *
 from scapy.all import *
 from time import *
 
-# Set source IP address and destination interface (HERE!)
+# Set source IP address and destination interface (Task 4.)
 
 
 # Store the receiving secret
