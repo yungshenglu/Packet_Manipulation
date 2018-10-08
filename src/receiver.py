@@ -49,6 +49,9 @@ def main():
         file.write('%s\n' % id)
         for line in received:
             file.write('%s' % line)
+    
+    # Finishing receiving in a duration
+    print '[INFO] Finish receiving packets in a duration'
 
 
 if __name__ == '__main__':
