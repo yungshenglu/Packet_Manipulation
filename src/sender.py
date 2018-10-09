@@ -24,7 +24,7 @@ def main():
     my_id = ''
     my_dept = ''
     my_gender = ''
-    student = Protocol(id = my_id, dept = dept, gender = my_gender)
+    student = Protocol(id = my_id, dept = my_dept, gender = my_gender)
 
     # Read file and store into list
     count = 0
