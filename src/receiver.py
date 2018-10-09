@@ -46,7 +46,6 @@ def main():
 
     # Write the receiving secret into file
     with open('./out/recv_secret.txt', 'w') as file:
-        file.write('%s\n' % id)
         for line in received:
             file.write('%s' % line)
     
