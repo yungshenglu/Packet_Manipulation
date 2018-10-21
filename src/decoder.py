@@ -100,7 +100,7 @@ def main():
     print('[INFO] Finish decoding')
 
     # Decode the secret
-    decode(data, key[0 : 7], id)
+    decode(data, key[0 : 6], id)
 
 if __name__ == '__main__':
     main()

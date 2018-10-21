@@ -1,11 +1,11 @@
-# Packet Manipulation
+# Packet Manipulation via Scapy
 
 This repository is lab for NCTU course "Introduction to Computer Networks 2018".
 
 ---
 ## Abstract
 
-In this lab we are going to learn how to use Scapy - a powerful interactive packet manipulation program, which can forge or decode packets of a wide number of protocols, send them on wire, capture them, match requests and replies, and much more. By using Scapy, we are going to define our own protocol to compute Fibonacci number through packets sending and receiving.
+In this lab we are going to learn how to use Scapy - a powerful interactive packet manipulation program, which can forge or decode packets of a wide number of protocols, send them on wire, capture them, match requests and replies, and much more.
 
 ---
 ## Objectives
