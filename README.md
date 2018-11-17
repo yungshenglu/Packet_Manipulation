@@ -35,12 +35,13 @@ This lab aims to learn how we use Scapy and Python to program a simple network p
     4. Report
 
 ---
-## Authors
+## Contributors
 
 * [David Lu](https://github.com/yungshenglu)
 
 > This repository is inspired by [Kevin Cyu](https://github.com/kevinbird61). He gave me lots of advices and supports during preparation.
 
+---
 ## License
 
 GNU GENERAL PUBLIC LICENSE Version 3
