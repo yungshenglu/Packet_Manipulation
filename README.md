@@ -1,6 +1,6 @@
 # Packet Manipulation via Scapy
 
-This repository is lab for NCTU course "Introduction to Computer Networks 2018".
+This repository is a lab for NCTU course "Introduction to Computer Networks 2018".
 
 ---
 ## Abstract
