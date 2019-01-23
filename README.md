@@ -62,6 +62,8 @@ This lab aims to learn how we use Scapy and Python to program a simple network p
 ---
 ## Tasks
 
+> **NOTICE:** Please follow this [slides](Tasks.pdf) for detail.
+
 * **In lab assignement**
     1. Environment Setup
     2. Define protocol via Scapy
